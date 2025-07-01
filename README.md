@@ -1,0 +1,1 @@
+Data and code to create dataset viii_PFTC7_leaf_hyperspectral_reflectance.csv. Create a new R project and import the raw data from OSF(https://osf.io/hk2cy/files/osfstorage/657c4dac513a7407c6aed2ac). Code will read in raw data files, process and clean them, outputting the clean dataset.
